@@ -1,0 +1,22 @@
+#saludo{
+  position: relative; 
+  margin-top: 15%;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#saludo h2 {
+  color:white ;
+  display: inline;
+  background-color: rgba(231, 122, 21, 0.795);
+  padding: 15px;
+  border-radius: 5px;
+}
+
+#BotonCart{
+  margin: 0px;
+  padding: 15px;
+  background-color:rgba(231, 122, 21, 0.795);
+}
+
