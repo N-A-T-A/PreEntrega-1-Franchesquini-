@@ -1,9 +1,11 @@
 export const NavBar = () => {
-    return (<>
+
+  return (<>
+
     <div>
     <nav class="navbar navbar-expand-lg bg-body-tertiary p-4" >
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Canela</a>
+        <a class="navbar-brand" >Canela</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,7 +49,8 @@ export const NavBar = () => {
     </div>    
 
     
-    </>) ;
+  </>) ;
+
 }
 
 // export default NavBar;
